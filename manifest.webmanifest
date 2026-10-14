@@ -1,0 +1,16 @@
+{
+  "id": "./index.html",
+  "name": "સ્માર્ટ હાજરી પત્રક",
+  "short_name": "સ્માર્ટ હાજરી",
+  "description": "શાળાનું સ્માર્ટ હાજરી પત્રક — દૈનિક હાજરી, રિપોર્ટ અને બેકઅપ.",
+  "lang": "gu",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eef2f7",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {"src":"./icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
